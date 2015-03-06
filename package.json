@@ -35,7 +35,7 @@
     "glob": "^4.0.5"
   },
   "dependencies": {
-    "ember-validations": "2.0.0-alpha.2"
+    "ember-validations": "git+https://github.com/dockyard/ember-validations.git#027f1198e38d71c40eaa1000c32bb3c547b34cf9"
   },
   "keywords": [
     "ember-addon"
