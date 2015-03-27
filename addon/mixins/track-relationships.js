@@ -20,7 +20,7 @@ export default Ember.Mixin.create({
         }
       });
 
-      return this.set("parentObject", parent);
+      this.set("parentObject", parent);
     }
   }).on('init')
 });
