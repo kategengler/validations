@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-uncharted-validations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extension of ember-validations for tracking component heirarchy and backend validation helpers.",
   "directories": {
     "doc": "doc",
