@@ -35,6 +35,6 @@ buildChildMessages = function(parent, prefix) {
 
 export default Ember.Mixin.create({
   all: function() {
-    buildChildMessages(this);
+    return buildChildMessages(this);
   }.property()
 });
